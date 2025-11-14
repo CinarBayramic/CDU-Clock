@@ -1,0 +1,1 @@
+g++ .\analogclock.cpp -lSDL3 -o CDUClock
